@@ -40,7 +40,7 @@
 5458 print "JCCCCCCCCCCCCCCCCCCCCCK"
 5460 print chr$(17)+chr$(17)+chr$(17)+chr$(17)
 5462 print chr$(151)+"FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF"
-5464 print "kowalczm666 2024   dapik.devops@plus.pl"
+5464 print "kowalczm666 2024   ...................."
 5466 tx% = 0
 5499 restore: rem wskazuj na dane led
 5500 rem petla ekranowa

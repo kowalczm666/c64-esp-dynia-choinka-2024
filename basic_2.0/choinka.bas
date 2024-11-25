@@ -23,7 +23,7 @@
   300 print " "
   310 print " "
   320 print chr$(151);"FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF";
-  330 print chr$(154);"kowalczm666 (c)  datapowerdevops@plus.pl";
+  330 print chr$(154);"kowalczm666 (c)  .......................";
   400 rem (!) goto 400
   500 read d$
   510 if d$="*" then restore:goto 500
